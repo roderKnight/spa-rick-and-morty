@@ -1,4 +1,4 @@
-import getHash from "../utils/gethash";
+import getHash from "../utils/getHash";
 import getData from "../utils/getData";
 
 const Character = async ()=>{
